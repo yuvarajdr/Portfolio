@@ -7,7 +7,7 @@ layout: default
 | Type of Skills        | Skills          |
 |:-------------|:------------------|
 |Programming Language  |Core java, **`C#, Python, SQL, Pytest, Selenium`**|
-|Web Technology |ASP.Net, ADO.Net, Git, Github, Search Elastic, Azure, Devops|
+|Web Technology |`ASP.Net, ADO.Net, Git, Github, Search Elastic, Azure, Devops`|
 |Mark-up Language|HTML, CSS, Razor Script|  
 |Scripting Languages   |Java Script(No Experience, Basic Knowledge)  |
 |IDE  |Visual Studio (2017), SQL Server Management Studio 2014,Eclipse 2012 | 
