@@ -12,11 +12,11 @@ layout: default
 
 I'm having 3+ years of experience in the Software field. As of now I,m working as an Application Development Analyst in Accenture. My Passion is coding with logical thinking and Data Analysis.
 
-Please check link for more details on project and experience. [Link to Expereince page](./Experience.html)
+Please check link for more details on project and experience. [click for Expereince page](./Experience.html)
 
 # Skills
 
 Mainly I have python (programming language), Automation testing using pytest, Cloud platforms like Azure, Elastic Search(connectivity hub), Share point(connector framework), and web development from Asp.net (MVC model) Framework.
 
 Please check link for more details on Skills and certifications
-[Link to another page](./Skills.html).
+[click for Skills page](./Skills.html).
