@@ -17,10 +17,10 @@ layout: default
 
 ### Links for Certification
 ####**Python Certification**
-[Python Bootcamp](https://drive.google.com/file/d/1PtpiwGNNRefcQ1WgbCVf7riHNDbLxf8E/view?usp=sharing)
+[Python Bootcamp](./assets/img/Python_Certificat.jpg)
 
 ####**Microsoft Azure Fundamentals**
-[Azure Fundamentals](https://drive.google.com/file/d/1QTocoUzUEeJvdXTVi58IlNcJW4ZWrR1F/view?usp=sharing)
+[Azure Fundamentals](./pdf/Microsoft_Certified_Professional_Certificate_0.pdf)
 
 
 _yay_
