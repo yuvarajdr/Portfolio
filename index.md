@@ -4,8 +4,8 @@ layout: default
 # Career Progression
 
 * July 2019 onwards: **Mphasis Limited**, Bangalore as a Trainee Associate software engineer 
-* January 2019 to June 2019: Undergone software training from ABC training & technology institute 
-* December 2021 onwards: Accenture solution private limited as Application Development Analyst.
+* January 2019 to June 2019: Undergone software training**Java unified course** from ABC training & technology institute 
+* December 2021 onwards: **Accenture solution private limited** as Application Development Analyst.
 * February 2022 onwards: pursuing MS degree **Master of Science in Machine Learning and Artificial Intelligence** from IIIT Bangalore(Liverpool John Moores University)
 
 # Expereince
